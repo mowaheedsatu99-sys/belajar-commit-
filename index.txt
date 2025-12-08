@@ -1,5 +1,6 @@
 Ini adalah dokumen biasa, ceritanya source code
 - ini adalah text yang dibikin pertama kali saat membuat repo
 
--ini text yang akan dihapus
 
+-ini adalah text tambahan pada commit kedua
+-ini text ke 3 tambahan juga
