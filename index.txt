@@ -2,6 +2,6 @@ Ini adalah dokumen biasa, ceritanya source code
 - ini adalah text yang dibikin pertama kali saat membuat repo
 
 
--ini adalah text tambahan pada commit kedua, namun di edit pada branch coba-branch2
+-ini adalah text tambahan pada commit kedua, namun di edit pada branch kedua
 -ini text ke 3 tambahan juga, tapi diedit pada commit ke 3
--ini text tambahan dari branch coba-branch2
+-ini text tambahan dari branch kedua
