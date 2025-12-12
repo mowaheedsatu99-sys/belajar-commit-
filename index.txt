@@ -7,3 +7,4 @@ Ini adalah dokumen biasa, ceritanya source code
 -ini text ke 3 tambahan juga, tapi diedit pada commit ke 3 
 -ini data baru dari branch coba-branch
 
+-ini commit ke 4
