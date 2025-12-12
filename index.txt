@@ -5,10 +5,13 @@ Ini adalah dokumen biasa, ceritanya source code
 
 -ini adalah text tambahan pada commit kedua, tapi diedit di branch coba-branch
 -ini text ke 3 tambahan juga, tapi diedit pada commit ke 3 
--ini data baru dari branch coba-branch
+
 
 -ini commit ke 4
 
 
 -ini commit ke 5 di branch baru
 -ini commit ke 6 di branch baru
+
+
+commitan ke7 di branch baru lagi
