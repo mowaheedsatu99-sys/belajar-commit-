@@ -8,7 +8,7 @@ Ini adalah dokumen biasa, ceritanya source code
 
 
 -ini commit ke 4
-
+-ediiiiittt
 
 -ini commit ke 5 di branch baru
 -ini commit ke 6 di branch baru
